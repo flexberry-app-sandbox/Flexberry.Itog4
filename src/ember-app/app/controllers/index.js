@@ -22,36 +22,36 @@ export default Controller.extend({
             link: 'i-i-s-itog4-услуги-l',
             caption: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-услуги-l.caption'),
             title: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-услуги-l.title'),
-            icon: 'suitcase',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-itog4-клиент-l',
             caption: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-клиент-l.caption'),
             title: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-клиент-l.title'),
-            icon: 'building',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-itog4-договор-l',
             caption: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-договор-l.caption'),
             title: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-договор-l.title'),
-            icon: 'calendar',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-itog4-дир-отд-по-раб-с-кл-l',
             caption: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-дир-отд-по-раб-с-кл-l.caption'),
             title: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-дир-отд-по-раб-с-кл-l.title'),
+            icon: 'building',
             children: null
           }, {
             link: 'i-i-s-itog4-затр-время-l',
             caption: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-затр-время-l.caption'),
             title: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-затр-время-l.title'),
-            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-itog4-расчет-ост-врем-l',
             caption: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-расчет-ост-врем-l.caption'),
             title: i18n.t('forms.application.sitemap.itog4.i-i-s-itog4-расчет-ост-врем-l.title'),
-            icon: 'book',
+            icon: 'chart bar',
             children: null
           }]
         }
